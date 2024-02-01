@@ -1,0 +1,7 @@
+.navcontainer{
+    display: flex;
+    gap: 50px;
+    padding: 5px;
+    align-items: center;
+    border-bottom: 3px solid gray;
+}
